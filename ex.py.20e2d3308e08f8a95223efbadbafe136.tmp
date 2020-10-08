@@ -1,0 +1,5 @@
+numberlist = [1, 2, 3, 4, 5]
+for i in range(len(numberlist)):
+    print('index', i, ', value : ', numberlist[i]+1)
+
+
