@@ -1,0 +1,35 @@
+Primary Skill,Secondary Skill,Christiano Ronaldo,Lionel Messi,Neymar
+Defence,Marking,22,13,21
+Defence,Slide Tackle,23,26,33
+Defence,Stand Tackle,31,28,24
+ball skills,Ball Control,93,95,95
+ball skills,Dribbling,92,97,96
+Mental,Aggression,63,48,56
+Mental,Reactions,96,95,88
+Mental,Att. Position,94,93,90
+Mental,Interceptions,29,22,36
+Mental,Vision,85,90,80
+Mental,Composure,86,94,80
+Passing,Crossing,84,77,75
+Passing,Short Pass,83,88,81
+Passing,Long Pass,77,87,75
+Shooting,Heading,85,71,62
+Shooting,Shot Power,92,85,78
+Shooting,Finishing,93,95,89
+Shooting,Long Shots,90,88,77
+Shooting,Curve,81,89,81
+Shooting,FK Acc.,76,90,84
+Shooting,Penalties,85,74,81
+Shooting,Volleys,88,85,83
+Physical,Acceleration,91,92,93
+Physical,Stamina,92,74,79
+Physical,Strength,80,59,53
+Physical,Balance,63,95,82
+Physical,Sprint Speed,92,87,90
+Physical,Agility,90,90,96
+Physical,Jumping,95,68,61
+Goalkeeper,GK Positioning,14,14,15
+Goalkeeper,GK Diving,7,6,9
+Goalkeeper,GK Handling,11,11,9
+Goalkeeper,GK Kicking15,15,15,15
+Goalkeeper,GK Reflexes11,11,8,11
