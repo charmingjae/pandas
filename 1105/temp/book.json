@@ -1,0 +1,128 @@
+{
+   "lastBuildDate":"Thu, 05 Nov 2020 12:24:52 +0900",
+   "total":4192,
+   "start":1,
+   "display":10,
+   "items":[
+      {
+         "title":"파이썬 딥러닝 파이토치(<b>Python</b> Deep Learning PyTorch)",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16778336",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/167/783/16778336.jpg?type=m1&udate=20201014",
+         "author":"이경택|방성수|안상준",
+         "price":"25000",
+         "discount":"22500",
+         "publisher":"정보문화사",
+         "pubdate":"20201008",
+         "isbn":"8956748578 9788956748573",
+         "description":"파이썬은 선택이 아닌 필수! 파이토치로 딥러닝 입문하기!이 책은 딥러닝 기술에 초점을 두고 딥러닝을 구현하기 위해 파이썬을 이용하는데, 머신러닝 라이브러리인 파이토치를 활용하여 다양한 텐서를 지원하는 방법을 알아본다. 파이토치는 파이썬 코딩과 비슷하기 때문에 언어가 어렵지 않다.... "
+      },
+      {
+         "title":"Effective <b>Python</b> 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 (똑똑하게 코딩하는 법, 개정판)",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16876960",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/168/769/16876960.jpg?type=m1&udate=20201031",
+         "author":"브렛 슬라킨 지음|오현석",
+         "price":"32000",
+         "discount":"28800",
+         "publisher":"길벗",
+         "pubdate":"20201030",
+         "isbn":"1165213192 9791165213190",
+         "description":"아마존 파이썬 프로그래밍 분야 베스트셀러, 〈EFFECTIVE <b>PYTHON</b>〉 전면 개정 증보판!\n파이썬의 매력과 강점을 이용해 강력하고 우수한 성능의 코드를 작성하는 90가지 방법!파이썬다운 방식으로 프로그램을 작성하는 방법, 파이썬을 사용하는 가장 좋은 방법에 대한 통찰을 담았다! 2판에서는 파이썬 3.... "
+      },
+      {
+         "title":"<b>Python</b>으로 시작하는 빅데이터 분석 및 인공지능",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=15407061",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/154/070/15407061.jpg?type=m1&udate=20200402",
+         "author":"조준모",
+         "price":"24000",
+         "discount":"22800",
+         "publisher":"인피니티북스",
+         "pubdate":"20190830",
+         "isbn":"1185578463 9791185578460",
+         "description":"인공지능을 수행하기 위해서는 빅데이터가 입력으로 주어지며 이를 가공하여 분석할 수 있는 빅데이터 분석기술이 필요하다. 이를 위해 현재 각광을 받고 있는 구글의 주피터 노트북(JUPYTER NOTEBOOK)환경에서 넘파이(NUMPY)와 판다스(PANDAS)를 사용할 수 있는 파이썬(<b>PYTHON</b>)을 실습을 통해 익힌다."
+      },
+      {
+         "title":"<b>Python</b>을 이용한 데이터 분석과 시각화",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16822607",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/168/226/16822607.jpg?type=m1&udate=20201007",
+         "author":"김계수",
+         "price":"28000",
+         "discount":"25200",
+         "publisher":"한나래아카데미",
+         "pubdate":"20201015",
+         "isbn":"8955662408 9788955662405",
+         "description":"데이터 분석의 장벽은 낮추고 활용도는 높인 <b>PYTHON</b>!\n이 책은 분석 기반 데이터 과학을 통한 문제 해결, 가치 창출을 지향한다. 이를 위해 데이터 분석의... 프로그램은 <b>PYTHON</b>이다. 간결하고 생산성 높은 프로그래밍 언어로 꼽히는 <b>PYTHON</b>은 통계나 컴퓨터 관련 전공자가 아니더라도 상대적으로 쉽게 데이터... "
+      },
+      {
+         "title":"<b>Python</b>을 이용한 개인화 추천 시스템",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16628756",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/166/287/16628756.jpg?type=m1&udate=20200901",
+         "author":"임일",
+         "price":"18000",
+         "discount":"18000",
+         "publisher":"청람",
+         "pubdate":"20200825",
+         "isbn":"8959727660 9788959727667",
+         "description":"현재 추천 알고리즘으로 가장 널리 사용되는 협업 필터링(COLLABORATIVE FILTERING: CF),\n행렬 요인화(MATRIX FACTORIZATION: MF), 딥러닝(DEEP LEARNING: DL) 알고리즘의 작동원리와 <b>PYTHON</b>을 사용한 개인화 추천 시스템 구축을 다루고 있다. \n추천 시스템의 기본적인 원리를 이해하는 데... "
+      },
+      {
+         "title":"The <b>Python</b> 3 Standard Library by Example: 예제로 배우는 파이썬 표준 라이브러리 (예제로 배우는 파이썬 표준 라이브러리)",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16382087",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/163/820/16382087.jpg?type=m1&udate=20201014",
+         "author":"더그 헬먼",
+         "price":"58000",
+         "discount":"52200",
+         "publisher":"에이콘출판",
+         "pubdate":"20200630",
+         "isbn":"116175430X 9791161754307",
+         "description":"웹과 인공지능 분야에서 파이썬의 활약이 대단하다. 파이썬의 수많은 기능에 앞서 이 책은 언어 자체의 가장 기본인 표준 라이브러리에 중점을 두고 있다. 표준 라이브러리는 한 권의 책에 모두 담을 수 없을 만큼 방대하기 때문에 반드시 필요한 내용만 담았다. 레퍼런스 수준으로 정리했으며 필요한 분야만 읽을... "
+      },
+      {
+         "title":"なんでも<b>Python</b>プログラミング",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16749083",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/167/490/16749083.jpg?type=m1&udate=20201004",
+         "author":"平林 純",
+         "price":"36030",
+         "discount":"34760",
+         "publisher":"技術評論社",
+         "pubdate":"20201028",
+         "isbn":"4297116375 9784297116378",
+         "description":""
+      },
+      {
+         "title":"<b>Python</b> 프로그래밍(스마트로봇 EV3를 활용한) (스마트로봇 EV3를 활용한)",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16685329",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/166/853/16685329.jpg?type=m1&udate=20201024",
+         "author":"남상엽",
+         "price":"30000",
+         "discount":"28500",
+         "publisher":"상학당",
+         "pubdate":"20200915",
+         "isbn":"8965872022 9788965872023",
+         "description":"『<b>PYTHON</b> 프로그래밍』은 〈스마트로봇 EV3의 개요 및 구성〉, 〈파이썬의 개요 및 설정〉, 〈파이썬 프로그램 작성과 실행〉 등이 수록되어 있다."
+      },
+      {
+         "title":"<b>Python</b>機械學習プログラミング 3版",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16851885",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/168/518/16851885.jpg?type=m1&udate=20201022",
+         "author":"S.ラシュカ 저V.ミルジャリリ",
+         "price":"58960",
+         "discount":"52570",
+         "publisher":"インプレス",
+         "pubdate":"20201015",
+         "isbn":"4295010073 9784295010074",
+         "description":""
+      },
+      {
+         "title":"파이썬으로 시작하는 로봇 활용 SW 교육: 햄스터",
+         "link":"http://book.naver.com/bookdb/book_detail.php?bid=16263768",
+         "image":"https://bookthumb-phinf.pstatic.net/cover/162/637/16263768.jpg?type=m1&udate=20200217",
+         "author":"황준|연승욱|박광현",
+         "price":"18000",
+         "discount":"16200",
+         "publisher":"영진닷컴",
+         "pubdate":"20200306",
+         "isbn":"8931461879 9788931461879",
+         "description":"이 책은 언플러그드 교육부터 파이썬 프로그래밍, 파이썬으로 움직이는 햄스터 로봇, 그리고 프로젝트 기획 및 구축까지 한 권으로 배워볼 수 있습니다. 소프트웨어의 현재와 미래를 알아보고, 자신의 창의적인 아이디어를 실현할 수 있도록 프로그래밍과 피지컬 컴퓨팅을 배워봅니다. 다른 언어보다 쉽고 간결한... "
+      }
+   ]
+}
